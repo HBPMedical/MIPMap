@@ -85,4 +85,6 @@ __Properties file commands__
 7. Output csv file
     ~~~
     outputFile=[path to csv file]/file.csv
-    ~~~ 
+    ~~~
+## Acknowledgements
+This project/research received funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA).
